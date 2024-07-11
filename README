@@ -1,0 +1,10 @@
+## Build steps
+
+    cd src 
+    make
+
+## Run steps
+    
+    cd src
+    ./book-library
+
